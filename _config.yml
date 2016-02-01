@@ -1,0 +1,28 @@
+name: kickstartinc
+favicon: null
+layout_spectrum: 0.24903118470683694
+typography_spectrum: 0.4867916922084987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#a2a1a7'
+    - '#5f5b5c'
+    - '#ced2db'
+    - '#0b6995'
+    - '#fefefe'
+  brandStrength: 0.10797267407178879
+  lightness: 0.09331386093981564
+  saturation: 0.03796649654395878
+  rhythmicContrast: 0.7397711360827088
+purpose: []
