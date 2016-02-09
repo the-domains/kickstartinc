@@ -4,8 +4,15 @@
         <description><![CDATA[Kickstart Marketing and Design  Inc.]]></description>
         <link>https://thegrid.ai/kickstartinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 16:07:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kickstartinc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebd27ec31fdc47fd96ead53e4f0172c4994a9b37.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/kickstartinc/ae635d4e-36c5-47e7-b017-47d3fb642295/index.html</link>
+            <guid isPermaLink="false">ae635d4e-36c5-47e7-b017-47d3fb642295</guid>
+            <pubDate>Tue, 09 Feb 2016 16:06:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dbb1e05-1642-47de-9dd0-e8d2252a997c.png">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/kickstartinc/c8b8b18b-98a8-49cb-b666-b24fe505154f/index.html</link>
             <guid isPermaLink="false">c8b8b18b-98a8-49cb-b666-b24fe505154f</guid>
             <pubDate>Mon, 08 Feb 2016 21:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd0fe8cb-15b4-42b8-a1f4-7622dea9f805.jpg">]]></description>
-            <link>https://thegrid.ai/kickstartinc/ae635d4e-36c5-47e7-b017-47d3fb642295/index.html</link>
-            <guid isPermaLink="false">ae635d4e-36c5-47e7-b017-47d3fb642295</guid>
-            <pubDate>Mon, 01 Feb 2016 20:45:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
