@@ -1,6 +1,6 @@
 name: Kickstart Inc
 favicon: null
-layout_spectrum: 0.2377
+layout_spectrum: 0.51412
 typography_spectrum: 0.40132
 title: Kickstart Marketing and Design  Inc.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#003f62'
     - '#86d6e2'
     - '#fbe91a'
-  brandStrength: 0.375
-  lightness: 0.1875
+  brandStrength: 0
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
