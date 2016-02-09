@@ -1,7 +1,7 @@
 name: Kickstart Inc
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.40132
+typography_spectrum: 0.57582
 title: Kickstart Marketing and Design  Inc.
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0dadc5'
+    - '#3ea7ba'
+    - '#48555d'
     - '#ffffff'
-    - '#003f62'
-    - '#86d6e2'
-    - '#fbe91a'
+    - '#a2d5dd'
+    - '#758086'
   brandStrength: 0.1875
   lightness: 0.25
   saturation: 0
